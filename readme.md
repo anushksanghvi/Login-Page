@@ -1,8 +1,8 @@
-## VCS assignment 
+# VCS Assignment
 
-Team Name : Tech Titans 
+## Team Name: Tech Titans
 
-Team members : <br>
-Anushk Sanghvi (500091334) <br>
-Garvit Sharda (500093671) <br>
-Sanskar Sisodia (500091107) <br>
+### Team Members:
+- **Anushk Sanghvi** (500091334)
+- **Garvit Sharda** (500093671)
+- **Sanskar Sisodia** (500091107)
